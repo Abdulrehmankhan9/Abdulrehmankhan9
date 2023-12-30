@@ -1,3 +1,5 @@
+
+<img src="https://github.com/Nimra-Mughal/Nimra-Mughal/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png" width="100%">
 <h1 align="center">Hi 👋, I'm Abdulrehman Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
