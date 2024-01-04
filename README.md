@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/C4E16AQH-KNnmUFQfiA/profile-displaybackgroundimage-shrink_200_800/0/1641960370683?e=2147483647&v=beta&t=_YN-sJth-Jhwb9zLbCV32VrGMp82xh8uWwItSQnb7po" width="100%">
 <h1 align="center">Hi 👋, I'm Abdulrehman Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
+<img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehmankhan9&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehmankhan9" /> </p>
 
