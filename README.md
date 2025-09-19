@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/USERNAME/REPO_NAME/raw/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Abdulrehmankhan9/Abdulrehmankhan9/blob/main/image.png" alt="Banner" width="100%" />
 </
